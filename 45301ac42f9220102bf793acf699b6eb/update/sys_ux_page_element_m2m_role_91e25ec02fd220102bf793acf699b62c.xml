@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE">
+        <element display_value="Analytics Center Button">0de25ec02fd220102bf793acf699b622</element>
+        <group/>
+        <role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-08 10:23:49</sys_created_on>
+        <sys_id>91e25ec02fd220102bf793acf699b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Restaurant_Management" source="x_567994_restauran">45301ac42f9220102bf793acf699b6eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Restaurant_Management">45301ac42f9220102bf793acf699b6eb</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_91e25ec02fd220102bf793acf699b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 10:23:49</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+</record_update>

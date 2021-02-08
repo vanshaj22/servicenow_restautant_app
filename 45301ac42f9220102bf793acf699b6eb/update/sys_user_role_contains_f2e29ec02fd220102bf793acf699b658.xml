@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="restaurant_management" name="restaurant_management">f6e29ec02fd220102bf793acf699b64a</contains>
+        <role display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-08 10:23:56</sys_created_on>
+        <sys_id>f2e29ec02fd220102bf793acf699b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>restaurant_management.user</sys_name>
+        <sys_package display_value="Restaurant_Management" source="x_567994_restauran">45301ac42f9220102bf793acf699b6eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Restaurant_Management">45301ac42f9220102bf793acf699b6eb</sys_scope>
+        <sys_update_name>sys_user_role_contains_f2e29ec02fd220102bf793acf699b658</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 10:23:56</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

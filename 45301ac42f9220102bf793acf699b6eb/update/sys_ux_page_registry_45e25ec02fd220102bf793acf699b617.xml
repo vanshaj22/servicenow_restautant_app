@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>0de25ec02fd220102bf793acf699b616</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/restaurant_managem</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-08 10:23:48</sys_created_on>
+        <sys_id>45e25ec02fd220102bf793acf699b617</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Restaurant_Management</sys_name>
+        <sys_package display_value="Restaurant_Management" source="x_567994_restauran">45301ac42f9220102bf793acf699b6eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Restaurant_Management">45301ac42f9220102bf793acf699b6eb</sys_scope>
+        <sys_update_name>sys_ux_page_registry_45e25ec02fd220102bf793acf699b617</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 10:23:48</sys_updated_on>
+        <title>Restaurant_Management</title>
+    </sys_ux_page_registry>
+</record_update>
